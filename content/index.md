@@ -13,15 +13,7 @@ Clarity a Task Manager for iOS
 Clarity is a task management system for iOS which is based around task scheduling using a timer
 
 #links
-  :::u-button
-  ---
-  color: neutral
-  size: xl
-  to: /getting-started/installation
-  trailing-icon: i-lucide-arrow-right
-  ---
-  ![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1758240000){-19="<https://apps.apple.com/us/app/clarity-task-manager/id6751516278?ign-itscg=30200&ign-itsct=apps_box_badge&mttnsubad=6751516278>" :height ='82' :width ='245'}
-  :::
+[![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1758240000)](https://apps.apple.com/us/app/clarity-task-manager/id6751516278?ign-itscg=30200\&ign-itsct=apps_box_badge\&mttnsubad=6751516278)
 ::
 
 ::u-page-section
